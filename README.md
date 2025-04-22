@@ -1,12 +1,9 @@
 ## Hi there 👋 I'm Faisa Yusuf
-_______________________________________________________________________________________________________________________________________________________________________
 I'm a front-end developer currently gaining hands-on experience at LuulSolutions, where I contribute to real-world projects by building and improving web applications using modern front-end technologies.
 
 I recently completed a 6-month intensive bootcamp with Fast Track Software Academy, where I trained in HTML, CSS, JavaScript, React, Tailwind CSS, TypeScript, Git, and GitHub. My work at LuulSolutions allows me to apply what I’ve learned while continuing to grow and develop my skills as a front-end developer.
 
 ## Technical Skills 💻
-_______________________________________________________________________________________________________________________________________________________________________
-
 I have a solid foundation in the following technologies:
 
 * HTML: Skilled in creating well-structured, semantic web content and layouts.
@@ -24,7 +21,6 @@ I have a solid foundation in the following technologies:
 * Tailwind CSS: Efficient in using utility-first classes to style modern, responsive UIs.
 
 ## Contact Me 📧 
-_______________________________________________________________________________________________________________________________________________________________________
 Feel free to contact me
 
 📧 faisa.yusuf@yahoo.co.uk
