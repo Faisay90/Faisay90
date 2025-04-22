@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Faisa Yusuf
+_______________________________________________________________________________________________________________________________________________________________________
+I'm a front-end developer currently gaining hands-on experience at LuulSolutions, where I contribute to real-world projects by building and improving web applications using modern front-end technologies.
 
-<!--
-**Faisay90/Faisay90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently completed a 6-month intensive bootcamp with Fast Track Software Academy, where I trained in HTML, CSS, JavaScript, React, Tailwind CSS, TypeScript, Git, and GitHub. My work at LuulSolutions allows me to apply what I’ve learned while continuing to grow and develop my skills as a front-end developer.
 
-Here are some ideas to get you started:
+## Technical Skills
+_______________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a solid foundation in the following technologies:
+
+* HTML: Skilled in creating well-structured, semantic web content and layouts.
+
+* CSS: Experienced in designing and styling responsive, user-friendly interfaces.
+
+* JavaScript: Proficient in adding interactivity and dynamic functionality to web applications.
+
+* Git: Comfortable with version control, branching, and collaborating in a team environment.
+
+* GitHub: Experienced in managing repositories, reviewing code, and tracking project progress.
+
+* React: Capable of building interactive, component-based user interfaces using hooks and state management.
+
+* Tailwind CSS: Efficient in using utility-first classes to style modern, responsive UIs.
+
+## Contact Me
+_______________________________________________________________________________________________________________________________________________________________________
+Feel free to contact me via:
+Email: faisa.yusug@yahoo.co.uk
+Linkedin: https://www.linkedin.com/in/faisa-yusuf-98108b33b/
