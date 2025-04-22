@@ -25,7 +25,7 @@ I have a solid foundation in the following technologies:
 
 ## Contact Me
 _______________________________________________________________________________________________________________________________________________________________________
-Feel free to contact me via:
+Feel free to contact me
 
 Email: faisa.yusug@yahoo.co.uk
 
