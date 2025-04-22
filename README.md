@@ -25,4 +25,4 @@ Feel free to contact me
 
 📧 faisa.yusuf@yahoo.co.uk
 
-🔗 https://www.linkedin.com/in/faisa-yusuf-98108b33b/
+🔗 https://www.linkedin.com/in/faisa-yusuf90/
