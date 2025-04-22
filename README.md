@@ -23,6 +23,6 @@ I have a solid foundation in the following technologies:
 ## Contact Me 📧 
 Feel free to contact me
 
-📧 faisa.yusuf@yahoo.co.uk
+📧 faisa.yusuf90@gmail.com
 
 🔗 https://www.linkedin.com/in/faisa-yusuf90/
