@@ -21,6 +21,8 @@ I have a solid foundation in the following technologies:
 * React: Capable of building interactive, component-based user interfaces using hooks and state management.
 
 * Tailwind CSS: Efficient in using utility-first classes to style modern, responsive UIs.
+* 
+* Figma – Translating design concepts into functional, pixel-perfect web experiences.
 
 ## Contact Me 📧 
 Feel free to contact me
