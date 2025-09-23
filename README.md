@@ -42,7 +42,7 @@
 ## 🔥 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faisay90&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="Faisay90's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faisay90&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" alt="Faisay90's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisay90&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
