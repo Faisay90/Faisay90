@@ -25,18 +25,6 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-- **HTML:** Skilled in creating well-structured, semantic web content and layouts.
-- **CSS:** Experienced in designing and styling responsive, user-friendly interfaces.
-- **JavaScript:** Proficient in adding interactivity and dynamic functionality to web applications.
-- **React:** Experienced in building interactive, component-based user interfaces using hooks and state management.
-- **Tailwind CSS:** Efficient in using utility-first classes to style modern, responsive UIs.
-- **Node.js:** Able to build server-side applications and RESTful APIs.
-- **MongoDB:** Experienced in working with NoSQL databases for modern web apps.
-- **SQL:** Solid understanding of relational databases and data querying.
-- **Figma:** Translating design concepts into functional, pixel-perfect web experiences.
-- **TypeScript:** Confident in building robust, type-safe applications and enhancing code maintainability.
-- **Git:** Comfortable with version control, branching, and collaborating in a team environment.
-- **GitHub:** Experienced in managing repositories, reviewing code, and tracking project progress.
 
 ---
 
