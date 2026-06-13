@@ -9,7 +9,6 @@
 ---
 
 ## 🛠️ Technical Skills
-<img src="https://img.shields.io/badge/LABEL-COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white" />
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
