@@ -28,7 +28,7 @@
 </p>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisay90&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ## 🔥 My GitHub Stats
