@@ -41,9 +41,9 @@
 ---
 
 ## 🚀 Featured Projects
-
+- [VuukaGroup - Freight and Logistics Company] (https://vuukagroup.com/)
 - [Property Management System](https://github.com/Luul-Solutions/property-management-system)
-- [TCMS](https://github.com/Luul-Solutions/tcms)
+- [TCMS - Tuition Centre Management Service ](https://github.com/Luul-Solutions/tcms)
 - [Portfolio](https://github.com/Faisay90/Portfolio)
 - [Pizza Delivery App](https://github.com/Faisay90/PizzaDeliveryApp)
 
