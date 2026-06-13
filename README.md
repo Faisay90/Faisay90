@@ -44,7 +44,7 @@
 - [VuukaGroup - Freight & Logistics](https://vuukagroup.com)
 - [Property Management System](https://github.com/Luul-Solutions/property-management-system)
 - [TCMS - Tuition Centre Management Service ](https://teachcms.com/)
-- [Portfolio](https://github.com/Faisay90/Portfolio)
+- [Portfolio ](https://faisa-yusuf.vercel.app/)
 - [Pizza Delivery App](https://github.com/Faisay90/PizzaDeliveryApp)
 
 ---
