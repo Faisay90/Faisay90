@@ -41,6 +41,8 @@
 ---
 
 ## 🚀 Featured Projects
+- [VuukaGroup](https://vuukagroup.com)
+
 - [VuukaGroup - Freight and Logistics Company] (https://vuukagroup.com/)
 - [Property Management System](https://github.com/Luul-Solutions/property-management-system)
 - [TCMS - Tuition Centre Management Service ](https://github.com/Luul-Solutions/tcms)
