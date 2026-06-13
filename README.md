@@ -9,6 +9,19 @@
 ---
 
 ## 🛠️ Technical Skills
+<img src="https://img.shields.io/badge/LABEL-COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white" />
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<!-- Front-End Frameworks -->
+<img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+<!-- UI Components -->
+<img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
@@ -25,7 +38,8 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ## 🔥 My GitHub Stats
